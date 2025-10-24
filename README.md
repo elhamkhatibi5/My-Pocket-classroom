@@ -20,8 +20,8 @@ It combines Notes, Flashcards, and Quizzes in one platform to enhance your learn
 4. Ancient Civilizations (History)
 
 ## Demo
+https://github.com/elhamkhatibi5/My-Pocket-classroom/tree/main
 https://github.com/elhamkhatibi5/Professional-PocketClassroom
-https://elhamkhatibi5.github.io/Professional-PocketClassroom/
-   
+
 
 
